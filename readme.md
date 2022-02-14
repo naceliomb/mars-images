@@ -1,3 +1,3 @@
-# NODE TYPESCRIPT TEMPLATE
+# MARS-IMAGES
 
-## Simple template for node with typescript, babel and express
+## Simple API for Api in order to facilitate access to images of NASA's rovers on mars.
