@@ -1,7 +1,7 @@
 {
-  "name": "mars-images",
+  "name": "node-ts-template",
   "version": "0.0.1",
-  "description": "Api in order to facilitate access to images of NASA's rovers on mars.",
+  "description": "Simple template ts for nodejs",
   "main": "index",
   "author": "Nacelio Barbosa <naceliombdev@gmail.com>",
   "license": "MIT",
